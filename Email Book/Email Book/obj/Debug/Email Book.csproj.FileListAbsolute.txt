@@ -1,0 +1,11 @@
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csprojAssemblyReference.cache
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.Properties.Resources.resources
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csproj.GenerateResource.cache
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.csproj.CoreCompileInputs.cache
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.exe.config
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.exe
+C:\Users\irism\source\repos\Email Book\Email Book\bin\Debug\Email Book.pdb
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.exe
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email Book.pdb
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.detailsDisplayForm.resources
+C:\Users\irism\source\repos\Email Book\Email Book\obj\Debug\Email_Book.ContactList.resources
