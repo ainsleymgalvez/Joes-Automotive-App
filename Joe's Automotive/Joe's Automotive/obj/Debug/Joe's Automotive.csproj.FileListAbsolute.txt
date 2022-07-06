@@ -1,0 +1,10 @@
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe.config
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.exe
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\bin\Debug\Joe's Automotive.pdb
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csprojAssemblyReference.cache
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.JoeAutomotive.resources
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe_s_Automotive.Properties.Resources.resources
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.GenerateResource.cache
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.csproj.CoreCompileInputs.cache
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.exe
+C:\Users\irism\source\repos\Joe's Automotive\Joe's Automotive\obj\Debug\Joe's Automotive.pdb
